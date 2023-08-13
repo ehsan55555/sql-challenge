@@ -1,7 +1,7 @@
 # sql-challenge
 
 
-## The repository is organized as follows:
+## The repository has a folder named EmployeeSQL that contains:
 
 - `erd.png`: An image file of the Entity Relationship Diagram (ERD).
 - `schema.sql`: SQL file containing the table schemata for the database.
