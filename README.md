@@ -9,7 +9,7 @@
 
 ## Schema.sql
 
-This module challenge includes the following tables:
+This includes the following tables:
 
 ### departments
 Stores information about different departments in the organization.
